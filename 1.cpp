@@ -19,7 +19,7 @@ int main() {
 //  else{
 //  cout<< "you are not adult";
 //   }
-    cout << "Enter your age: ";
+//     cout << "Enter your age: ";
   // Taking input from the user
   cin >> age;
   // Checking the age category
